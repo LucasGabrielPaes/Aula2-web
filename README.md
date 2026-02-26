@@ -1,1 +1,2 @@
-# Aula2-web
+# Trabalho 2 de Desenvolvimento Web
+Membro: Lucas Gabriel
